@@ -26,12 +26,6 @@ Oi me chamo _Wellington de Oliveira Silva_, tenho 27 anos e sou do Estado do Mar
 ---
 
 <br>
-<br>
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=2dde98&width=900&size=19&center=true&lines=Eu+moro+no+Brazil;Eu+sou+Estudante+de+Análise+e+Desenvolvimento+de+Sistema;Bem+vindo!" alt="Typing SVG"/>
-</div>
-
-<br>
   <details align="center">  
     <summary>
       <samp>
