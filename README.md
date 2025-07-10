@@ -48,8 +48,8 @@ Oi me chamo _Wellington de Oliveira Silva_, tenho 27 anos e sou do Estado do Mar
   <img
     align="center"
     alt="Top Language"
-    height="165"
-    style="padding-right: 12px;"
+    height="167"
+    style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Well1ngton0OS&theme=tokyonight&layout=compact&custom_title=Tecnologias&font=Iosevka&langs_count=9"
   />
   <br>
