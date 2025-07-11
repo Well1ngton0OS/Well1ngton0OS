@@ -57,7 +57,7 @@ Oi me chamo _Wellington de Oliveira Silva_, tenho 27 anos e sou do Estado do Mar
   <img
     align="center"
     alt="Top Language"
-    height="167"
+    height="165"
     style="padding-right: 10px;"
     src="https://github-readme-streak-stats.herokuapp.com?user=Well1ngton0OS&theme=tokyonight&card_width=885"
   />
